@@ -1,0 +1,15 @@
+hw_location : "dgsrv099"
+face_det_kypts_model:
+  model_zoo_url: degirum/hailo
+  model_name: yolov8n_relu6_widerface_kpts--640x640_quant_hailort_hailo8_1
+face_reid_model:
+  model_zoo_url: degirum/sandbox_shashi
+  model_name : arcface_mobilefacenet--112x112_quant_hailort_hailo8_2
+database:
+  name: face_recognition.db
+table:
+  name: faces_hailo
+search_params:
+    top_k: 1
+    field_name: vector
+    metric_type: cosine

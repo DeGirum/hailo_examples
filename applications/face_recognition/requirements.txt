@@ -1,0 +1,5 @@
+PyYAML
+lancedb
+scikit-image
+degirum
+degirum_tools
