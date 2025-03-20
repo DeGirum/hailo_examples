@@ -1,0 +1,4 @@
+PyYAML
+scikit-image
+degirum
+degirum_tools

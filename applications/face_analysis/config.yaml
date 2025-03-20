@@ -1,0 +1,13 @@
+facial_attributes: 
+  age
+  gender
+hw_location : "dgsrv099"
+face_det_kypts_model:
+  model_zoo_url: degirum/hailo
+  model_name: yolov8n_relu6_widerface_kpts--640x640_quant_hailort_hailo8_1
+age_model:
+  model_zoo_url: degirum/hailo
+  model_name: yolov8n_relu6_age--256x256_quant_hailort_hailo8_1
+gender_model:
+  model_zoo_url: degirum/hailo
+  model_name: yolov8n_relu6_fairface_gender--256x256_quant_hailort_hailo8_1
