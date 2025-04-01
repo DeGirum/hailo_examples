@@ -1,10 +1,10 @@
-hw_location : "dgsrv099"
+hw_location : "@cloud"
 face_det_kypts_model:
   model_zoo_url: degirum/hailo
   model_name: yolov8n_relu6_widerface_kpts--640x640_quant_hailort_hailo8_1
 face_reid_model:
-  model_zoo_url: degirum/sandbox_shashi
-  model_name : arcface_mobilefacenet--112x112_quant_hailort_hailo8_2
+  model_zoo_url: degirum/hailo
+  model_name : arcface_mobilefacenet--112x112_quant_hailort_hailo8_1
 database:
   name: face_recognition.db
 table:
