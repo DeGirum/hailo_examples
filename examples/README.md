@@ -35,6 +35,7 @@ Each notebook focuses on a specific AI application:
 | **010_emotion_recognition.ipynb** | Emotion recognition on images. |
 | **011_obb_detection.ipynb** | Oriented bounding box (OBB) detection in images. |
 | **012_blur_objects.ipynb** | Blur detected objects in images. |
+| **013_overlay_effects.ipynb** | Overlay formatting on images. |
 ---
 
 ## **How to Modify Inference Settings**  
