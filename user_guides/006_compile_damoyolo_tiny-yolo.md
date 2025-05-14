@@ -1,4 +1,4 @@
-# Compile & Run DamoYOLO & Tiny‑YOLOv4 on Hailo with DeGirum PySDK
+# Compile and Run DamoYOLO & Tiny‑YOLOv4 on Hailo with DeGirum PySDK
 
 This guide is for ML developers who want to learn how to configure DeGirum PySDK to load a precompiled object detection model and run inference on a Hailo device. Similar to our last user guide, we’ll focus on the essential details and steps involved instead of a “just run this magic two line script” approach. We encourage the readers to start with User Guide 1–3 before proceeding with this guide. By the end of this guide, you’ll have a solid understanding of how to select and supply the correct end-node names (i.e., final convolutional layer names) for DamoYOLO and Tiny-YOLOv4 models.
 
