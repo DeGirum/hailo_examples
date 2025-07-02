@@ -38,7 +38,10 @@ Each notebook focuses on a specific AI application:
 | **013_overlay_effects.ipynb** | Overlay formatting on images. |
 | **015_light_enhancement_with_custom_postprocessor.ipynb** | Low light enhancement on images. |
 | **016_custom_video_source.ipynb** | Custom video generator. |
-| **017_advanced_tiling_strategies.ipynb** | Tiling strategies on images.  |
+| **017_advanced_tiling_strategies.ipynb** | Tiling strategies on images. |
+| **018_eager_batching.ipynb** | Impact of batching on single & multi-context models. |
+| **019_warmup_inference.ipynb** | Running warm-up inference to reduce initial latency. |
+
 
 
 
