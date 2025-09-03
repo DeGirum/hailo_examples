@@ -28,7 +28,7 @@ if __name__ == "__main__":
         # Check supported devices
         try:
             supported_devices = dg.get_supported_devices(
-                inference_host_address="@local"
+                inference_host_address="@local", "degirum/hailo"
             )
         except Exception as e:
             print(f"Error fetching supported devices: {e}")
