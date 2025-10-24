@@ -35,7 +35,7 @@ These tools are designed to be hardware-agnostic, enabling developers to build s
   ```  
 
 - **Hailo Runtime Compatibility**:  
-  DeGirum PySDK supports **Hailo Runtime versions 4.19.0, 4.20.0 and 4.21.0**. Ensure your Hailo environment is configured to use one of these versions.  
+  DeGirum PySDK supports **Hailo Runtime versions 4.19.0, 4.20.0, 4.21.0 and 4.22.0**. Ensure your Hailo environment is configured to use one of these versions.  
 
 - **Python 3.9 or Later**: Ensure Python is installed on your system. You can check your Python version using:  
 
